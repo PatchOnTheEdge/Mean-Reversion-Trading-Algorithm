@@ -13,3 +13,5 @@ Furthermore it uses a certain strategy to open trades. If the price moves away f
 Due to the scaling of position size, the algorithm can produce a very huge deposit load. This is especially true, if the market is trending strongly. In my Backtest I used the DAX index. An initial deposit of 150k was needed to survive the Corona crash. In my opinion, much bigger accounts are necessary, to use this strategy with a feasible risk.
 ## Conclusion
 It can be very simple to program a trading strategy that works. If you have further ideas to improve the algorithm, feel free to fork, implement and share or contact me. Hopefully, lots of people can make a lot of money or learn something about the financial markets :-)
+## Contact
+Contact me via [email](mailto:patchontheedge@googlemail.com)
